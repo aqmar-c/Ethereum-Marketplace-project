@@ -1,0 +1,18 @@
+{
+  "name": "blockchain_marketplace",
+  "version": "1.0.0",
+  "description": "Solidity , hardhat,  React, Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.0"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
+}
